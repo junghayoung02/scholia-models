@@ -1,6 +1,6 @@
 # Scholia Privacy Policy
 
-**Last updated: October 12, 2026**
+**Last updated: October 13, 2026**
 
 Scholia is an iPad app for reading, translating, and listening to PDF documents. It is built to work entirely on your device.
 
@@ -11,7 +11,7 @@ Nothing. Scholia does not collect, store, or transmit any personal information. 
 ## How your data is handled
 
 - **Your documents, notes, handwriting, and vocabulary** stay on your iPad. They are never uploaded anywhere.
-- **Text recognition (OCR), translation, and dictionary lookups** are performed on your device using Apple's built-in frameworks (Vision, Translation, Foundation Models). No text leaves your iPad.
+- **Text recognition (OCR), translation, and dictionary lookups** are performed on your device using Apple's built-in frameworks (Vision, Translation). No text leaves your iPad.
 - **Speech synthesis** runs on your device using the system voice or the Kokoro model.
 - **Backups** are created only when you choose to export them, and are saved where you decide.
 
@@ -34,13 +34,13 @@ If this policy changes, the updated version will be posted at this address with 
 ## Contact
 
 Ha-young Jung
-ha0220000@gmail.com
+scholia.app@gmail.com
 
 ---
 
 # Scholia 개인정보 처리 방침
 
-**최종 수정: 2026년 10월 12일**
+**최종 수정: 2026년 10월 13일**
 
 Scholia는 PDF 문서를 읽고, 번역하고, 들을 수 있는 아이패드 앱입니다. 모든 기능이 기기 안에서 동작하도록 만들어졌습니다.
 
@@ -51,7 +51,7 @@ Scholia는 PDF 문서를 읽고, 번역하고, 들을 수 있는 아이패드 �
 ## 데이터 처리 방식
 
 - **문서, 노트, 필기, 단어장**은 아이패드 안에만 저장되며 어디에도 업로드되지 않습니다.
-- **문자 인식(OCR), 번역, 사전 뜻풀이**는 애플 내장 프레임워크(Vision, Translation, Foundation Models)를 이용해 기기 안에서 처리됩니다. 텍스트가 기기 밖으로 나가지 않습니다.
+- **문자 인식(OCR), 번역, 사전 뜻풀이**는 애플 내장 프레임워크(Vision, Translation)를 이용해 기기 안에서 처리됩니다. 텍스트가 기기 밖으로 나가지 않습니다.
 - **음성 합성**은 시스템 음성 또는 Kokoro 모델로 기기 안에서 실행됩니다.
 - **백업**은 사용자가 직접 내보내기를 선택할 때만 만들어지며, 사용자가 정한 위치에 저장됩니다.
 
@@ -74,4 +74,4 @@ Scholia는 아동을 포함해 누구의 정보도 수집하지 않습니다.
 ## 문의
 
 정하영
-ha0220000@gmail.com
+scholia.app@gmail.com
